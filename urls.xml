@@ -6,6 +6,7 @@
   <url>https://www.ynet.com</url>
   <noturl>This is not a URL</noturl>
   <noturl>This is another non-URL line</noturl>
+  <url>https://www.twitch.com</url>
 </urls>
 <additional>This line is outside the URL tags</additional>
 <another>Another line outside the URL tags</another>
